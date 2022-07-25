@@ -1,6 +1,6 @@
+using Alura.LeilaoOnline.WebApp.Seeding;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
-using Alura.LeilaoOnline.WebApp.Seeding;
 
 namespace Alura.LeilaoOnline.WebApp
 {
@@ -8,6 +8,7 @@ namespace Alura.LeilaoOnline.WebApp
     {
         public static void Main(string[] args)
         {
+            //Cria Base de dados se não houver uma criada, na inicialização do projeto.
             DatabaseGenerator.Seed();
             CreateHostBuilder(args).Build().Run();
         }
