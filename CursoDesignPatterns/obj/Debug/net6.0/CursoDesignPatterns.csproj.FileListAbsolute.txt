@@ -1,0 +1,15 @@
+J:\AluraCursos\AluraCursos\CursoDesignPatterns\bin\Debug\net6.0\CursoDesignPatterns.exe
+J:\AluraCursos\AluraCursos\CursoDesignPatterns\bin\Debug\net6.0\CursoDesignPatterns.deps.json
+J:\AluraCursos\AluraCursos\CursoDesignPatterns\bin\Debug\net6.0\CursoDesignPatterns.runtimeconfig.json
+J:\AluraCursos\AluraCursos\CursoDesignPatterns\bin\Debug\net6.0\CursoDesignPatterns.dll
+J:\AluraCursos\AluraCursos\CursoDesignPatterns\bin\Debug\net6.0\CursoDesignPatterns.pdb
+J:\AluraCursos\AluraCursos\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.csproj.AssemblyReference.cache
+J:\AluraCursos\AluraCursos\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+J:\AluraCursos\AluraCursos\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.AssemblyInfoInputs.cache
+J:\AluraCursos\AluraCursos\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.AssemblyInfo.cs
+J:\AluraCursos\AluraCursos\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.csproj.CoreCompileInputs.cache
+J:\AluraCursos\AluraCursos\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.dll
+J:\AluraCursos\AluraCursos\CursoDesignPatterns\obj\Debug\net6.0\refint\CursoDesignPatterns.dll
+J:\AluraCursos\AluraCursos\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.pdb
+J:\AluraCursos\AluraCursos\CursoDesignPatterns\obj\Debug\net6.0\CursoDesignPatterns.genruntimeconfig.cache
+J:\AluraCursos\AluraCursos\CursoDesignPatterns\obj\Debug\net6.0\ref\CursoDesignPatterns.dll
